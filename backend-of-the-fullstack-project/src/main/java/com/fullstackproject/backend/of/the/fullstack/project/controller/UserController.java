@@ -1,5 +1,4 @@
 package com.fullstackproject.backend.of.the.fullstack.project.controller;
-
 import com.fullstackproject.backend.of.the.fullstack.project.model.User;
 import com.fullstackproject.backend.of.the.fullstack.project.repo.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
